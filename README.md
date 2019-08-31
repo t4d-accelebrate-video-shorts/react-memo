@@ -49,6 +49,26 @@ git clone https://github.com/t4d-accelebrate-video-shorts/react-memo.git
 
 If you prefer to not use Git then then repository can be downloaded by clicking the following link on the code repositories GitHub site:
 
+![GitHub Download Archive Button](./images/git-download-button.png)
+
+Extract the downloaded archive file in the folder of your choice.
+
+**Step 3.** Open the `start` folder in the editor of your choice. We recommended [Visual Studio Code](http://code.visualstudio.com/). It works on Windows, macOS and Linux. It is open source and free.
+
+**Step 4.** Install the NPM packages for the project. From a terminal window within the `start` folder run the following command:
+
+```
+npm install
+```
+
+**Step 5.** Start the development web server for the React application. From a terminal window within the `start` folder, run the following command:
+
+```
+npm start
+```
+
+When the development web server starts, it should open the React web site in your default web browser. The url will be [http://localhost:3000](http://localhost:3000)
+
 
 
 
