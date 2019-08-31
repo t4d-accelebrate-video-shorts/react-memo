@@ -69,6 +69,8 @@ npm start
 
 When the development web server starts, it should open the React web site in your default web browser. The url will be [http://localhost:3000](http://localhost:3000)
 
+**Step 6.** Start watching the [Youtube Video](#) and code along to learn more about how to improve React functional component performance with React's Memo function
+
 
 
 
