@@ -1,10 +1,16 @@
 # Accelebrate Video Shorts by T4D.IO
-## Improving Functional Component performance with React Memo
+## Improve React Functional Component Performance with Memo
 
+This video short demonstation represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
 
-> All instructions and code in this repository is licensed under the MIT license. Read the license text in the file `license.txt` to learn more.
+- [Introduction to React using JavaScript/ECMAScript](https://www.accelebrate.com/training/react)
+- [Introduction to React using TypeScript](https://www.accelebrate.com/training/react-typescript)
+- [Comprehensive React and Redux using JavaScript/ECMAScript](https://www.accelebrate.com/training/react-redux-js-comprehensive)
+- [Comprehensive React and Redux using TypeScript](https://www.accelebrate.com/training/react-redux-typescript-comprehensive)
 
-The provided files are the start and finish files for the video. If you desire to code along with the instructor, Eric Greene, clone this repository, open the `start` folder in your code editor and get started with the [YouTube video](#). If you would like to review the final finished files then browse the `finish` folder. 
+> All instructions and code in this repository are licensed under the MIT license. Read the license text in the file `license.txt` to learn more.
+
+The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube video](#). If you would like to review the final finished files then browse the `finish` folder. 
 
 ### Project Setup
 
@@ -23,7 +29,7 @@ To download Node.js for:
 
 - 64-bit Windows: [node-v10.16.3-x64.msi](https://nodejs.org/dist/v10.16.3/node-v10.16.3-x64.msi)
 - macOS: [node-v10.16.3.pkg](https://nodejs.org/dist/v10.16.3/node-v10.16.3.pkg)
-For all other platforms, look for the appropriate download here: [other platforms](https://nodejs.org/dist/v10.16.3/)
+- For all other platforms, look for the appropriate download here: [other platforms](https://nodejs.org/dist/v10.16.3/)
 
 Once you download the Node.js installer, run the installer and complete the installation process.
 
