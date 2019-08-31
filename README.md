@@ -15,7 +15,7 @@ Contact [Accelebrate](https://www.accelebrate.com/contact) today for all of your
 
 > All instructions and code in this repository are licensed under the MIT license. Read the license text in the file `license.txt` to learn more.
 
-The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube video](#). If you prefer to review only the completed files then browse the `finish` folder. 
+The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube Video](#). If you prefer to review only the completed files then browse the `finish` folder. 
 
 **Note:** Before watching the video and coding along you will need to setup your local environment. Within the instructions the word `terminal` refers to the Windows Command Prompt program on Windows and the Terminal program on macOS
 
