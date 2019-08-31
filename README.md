@@ -8,14 +8,15 @@ This video short demonstation represents some of the content covered in the foll
 - [Comprehensive React and Redux using JavaScript/ECMAScript](https://www.accelebrate.com/training/react-redux-js-comprehensive)
 - [Comprehensive React and Redux using TypeScript](https://www.accelebrate.com/training/react-redux-typescript-comprehensive)
 
+Contact [Accelebrate](https://www.accelebrate.com/contact) today for all of your software development training needs. 
+
+### Project Setup
+
 > All instructions and code in this repository are licensed under the MIT license. Read the license text in the file `license.txt` to learn more.
 
 The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube video](#). If you would like to review the final finished files then browse the `finish` folder. 
 
-### Project Setup
-
 **Note:** Before watching the video and coding along you will need to setup your local environment. Within the instructions the word `terminal` refers to the Windows Command Prompt program on Windows and the Terminal program on macOS
-
 
 **Step 1.** First, you will need to ensure you have Node.js 10.16.3 installed. Other versions of Node.js may work, but if you have any problems then please revert to version 10.16.3 as this is version used in the video. To verify if Node.js is installed on your system open a terminal window, and run the follow the command:
 
