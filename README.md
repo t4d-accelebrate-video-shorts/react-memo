@@ -1,5 +1,6 @@
 # Accelebrate Video Shorts by T4D.IO
-## Improve React Functional Component Performance with Memo
+
+### Improve React Functional Component Performance with Memo
 
 This video short demonstation represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
 
