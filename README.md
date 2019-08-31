@@ -15,7 +15,7 @@ Contact [Accelebrate](https://www.accelebrate.com/contact) today for all of your
 
 > All instructions and code in this repository are licensed under the MIT license. Read the license text in the file `license.txt` to learn more.
 
-The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube video](#). If you would like to review the final finished files then browse the `finish` folder. 
+The provided files are the start and finish files for the video. If you desire to code along with the instructor, [Eric Greene](http://www.t4d.io), clone this repository, open the `start` folder in your code editor and get started with the [YouTube video](#). If you prefer to review only the completed files then browse the `finish` folder. 
 
 **Note:** Before watching the video and coding along you will need to setup your local environment. Within the instructions the word `terminal` refers to the Windows Command Prompt program on Windows and the Terminal program on macOS
 
@@ -34,6 +34,8 @@ To download Node.js for:
 - For all other platforms, look for the appropriate download here: [other platforms](https://nodejs.org/dist/v10.16.3/)
 
 Once you download the Node.js installer, run the installer and complete the installation process.
+
+Repeat the `node -v` command from a new terminal window to confirm Node.js was installed successfully.
 
 > Helpful Hint: If you need to run multiple versions of Node.js on your system consider using [NVM-Windows](https://github.com/coreybutler/nvm-windows) (for Windows) and [NVM](https://github.com/nvm-sh/nvm) (for macOS)
 
