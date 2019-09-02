@@ -25,7 +25,7 @@ The provided files are the start and finish files for the video. If you desire t
 node -v
 ```
 
-If your system returns back version number other than 10.16.3 or cannot find Node.js then you will need to install Node.js 10.16.3. To install using the system installer, please review the links below. The system installer only supports one version being installed at a time.
+If your system returns back a version number other than 10.16.3 or cannot find Node.js then you will need to install Node.js 10.16.3. To install using the system installer, please browse to the appropriate link below. The system installer only supports one version being installed on a system at a time.
 
 To download Node.js for:
 
@@ -45,15 +45,15 @@ Repeat the `node -v` command from a new terminal window to confirm Node.js was i
 git clone https://github.com/t4d-accelebrate-video-shorts/react-memo.git
 ```
 
-> If `git` cannot be found on your system then please visit the Git website to install it: [https://git-scm.com](https://git-scm.com
+> If `git` cannot be found on your system then please visit the Git website to install it: [https://git-scm.com](https://git-scm.com) 
 
-If you prefer to not use Git then then repository can be downloaded by clicking the following link on the code repositories GitHub site:
+If you prefer to not use Git then the repository can be downloaded by clicking the following link on the code repository's GitHub page:
 
 ![GitHub Download Archive Button](./images/git-download-button.png)
 
 Extract the downloaded archive file in the folder of your choice.
 
-**Step 3.** Open the `start` folder in the editor of your choice. We recommended [Visual Studio Code](http://code.visualstudio.com/). It works on Windows, macOS and Linux. It is open source and free.
+**Step 3.** Open the `start` folder in the editor of your choice. We recommended [Visual Studio Code](http://code.visualstudio.com/). It works on Windows, macOS and Linux. It is open source and free. However, any editor can be used. It is recommended to use an editor with a built-in file tree, a built-in terminal window and support for React's JSX syntax.
 
 **Step 4.** Install the NPM packages for the project. From a terminal window within the `start` folder run the following command:
 
